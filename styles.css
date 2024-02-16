@@ -1,6 +1,7 @@
 /*  your css code here. If applicable */
 table{
-	border:1px solid black;
-	cell padding: 1px;
-	spacing:1px
+	border: 1px solid black;
+	padding: 1px;
+	border-spacing: 1px;
+
 }
